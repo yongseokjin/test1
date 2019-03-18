@@ -1,5 +1,6 @@
 test1
 master 수정
+<<<<<<< HEAD
 test2 ver3
 
 rererere
@@ -11,3 +12,13 @@ re
 
 
 냐냐냐
+=======
+test4 ver4
+<<<<<<< HEAD
+master ver6
+=======
+test5 ver5
+test7 ver7
+test8 ver8
+>>>>>>> ver5
+>>>>>>> 70d85ae52d48ec4f435a2eb47c2d84f556d9fa11

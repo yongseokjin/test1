@@ -1,4 +1,10 @@
 test1
 master ¼öÁ¤
 test4 ver4
+<<<<<<< HEAD
 master ver6
+=======
+test5 ver5
+test7 ver7
+test8 ver8
+>>>>>>> ver5
